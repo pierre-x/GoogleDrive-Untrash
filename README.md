@@ -6,6 +6,7 @@ I coded this quickly in order to restore several hundred thousand files from a G
 
 # Install & run
 ```shell
+# first: download your Google Drive API credentials
 gem install google-api-client
 ruby untrash.rb
 ```
